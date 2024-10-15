@@ -28,13 +28,11 @@ bRequest0=0x01
 wValue0=0xA5A5
 wIndex0=0
 
-
 bmRequestType1=0xC0 # Vendor Device-to-Host
 bRequest1=0x02
 wValue1=0
 wIndex1=0
 length=1
-
 
 bmRequestType2=0x40 #0b01000000
 bRequest2=0x03
